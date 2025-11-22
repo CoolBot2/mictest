@@ -134,7 +134,10 @@ int main(void)
 	             int32_t sample = (int32_t)i2sBuf[i];
 	             if (sample < 0) sample = -sample;
 	             sum += sample;
+	             int k;
+	             //mssss
 	         }
+	         //qdded
 
     /* USER CODE END WHILE */
 
